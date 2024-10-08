@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/datecounterv2/static/css/main.fc5c2c69.css",
+    "main.js": "/datecounterv2/static/js/main.7aecb55c.js",
+    "index.html": "/datecounterv2/index.html",
+    "main.fc5c2c69.css.map": "/datecounterv2/static/css/main.fc5c2c69.css.map",
+    "main.7aecb55c.js.map": "/datecounterv2/static/js/main.7aecb55c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.7aecb55c.js"
+  ]
+}
